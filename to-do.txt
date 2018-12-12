@@ -13,7 +13,7 @@ Solutions:
 - Open up the machine and look at it's state; might be easy enough to replace a few capacitors *but*
   also check out the online replacement manuals and even parts before going at it yourself.
   Focus on the keys.
-- Replace the disk drive.
+- Replace the disk drive: the coolest would be to get a diskette drive using a memory card and start sampling yourself.
 
 Also try to sample something for fun, see how that works (and if it works).
 
