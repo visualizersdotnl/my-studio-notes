@@ -1,0 +1,43 @@
+
+[ Gear / Maintenance ]
+
+*Ensoniq Mirage (the plagued one)
+
+Issues:
+- Seems to work 90% (I can hear some clicks every now and then I don't think should be there) sound wise.
+- Keyboard is blown; it is always modulating and the pitch wheel does not respond.
+- Disk drive acts shifty but that could very well be the disks themselves.
+
+Solutions:
+- Open up the machine and look at it's state; might be easy enough to replace a few capacitors *but*
+  also check out the online replacement manuals and even parts before going at it yourself.
+  Focus on the keys.
+- Replace the disk drive.
+
+Also try to sample something for fun, see how that works (and if it works).
+
+* Yamaha DX-7
+
+- Battery (even though it only complained once).
+
+* Arturia Drumbrute
+
+- Mount replacement board when current one stops working.
+
+[ Cables ]
+
+I need more:
+
+* Long MIDI cables, at least 2
+* At least 1 USB to "printer USB", long, best 2
+* Big plugs to RCA (with or without converter pieces), 2
+* Long stereo single big jack to 2 mono big jacks, 2
+
+[ Environment ]
+
+- More desk space!
+- Plateaus, maybe ask Maurits to design something?
+
+
+
+
