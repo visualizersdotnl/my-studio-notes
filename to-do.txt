@@ -7,6 +7,7 @@ Issues:
 - Seems to work 90% (I can hear some clicks every now and then I don't think should be there) sound wise.
 - Keyboard is blown; it is always modulating and the pitch wheel does not respond.
 - Disk drive acts shifty but that could very well be the disks themselves.
+- Long boot up time suggests blown capacitors as well (Google..).
 
 Solutions:
 - Open up the machine and look at it's state; might be easy enough to replace a few capacitors *but*
