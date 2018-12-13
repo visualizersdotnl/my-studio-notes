@@ -13,9 +13,14 @@ Solutions:
 - Open up the machine and look at it's state; might be easy enough to replace a few capacitors *but*
   also check out the online replacement manuals and even parts before going at it yourself.
   Focus on the keys.
+  Oh, and of course: the connections!
 - Replace the disk drive: the coolest would be to get a diskette drive using a memory card and start sampling yourself.
 
+Strategy: buy a disk drive, that's an excellent starting point to open it up
+
 Also try to sample something for fun, see how that works (and if it works).
+
+URL: https://syntaur.com/mirage_parts.html
 
 * Yamaha DX-7
 
@@ -33,6 +38,8 @@ I need more:
 * At least 1 USB to "printer USB", long, best 2
 * Big plugs to RCA (with or without converter pieces), 2
 * Long stereo single big jack to 2 mono big jacks, 2
+* Small jack to RCA (longer than the same one you got before)
+* Regular RCA cable
 
 [ Environment ]
 
