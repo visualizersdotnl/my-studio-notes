@@ -4,21 +4,17 @@
 *Ensoniq Mirage (the plagued one)
 
 Issues:
-- Seems to work 90% (I can hear some clicks every now and then I don't think should be there) sound wise.
-- Keyboard is blown; it is always modulating and the pitch wheel does not respond.
+- It does not get through calibration procedures, which is why it takes ages to boot (and indicates a problem)
+- Keyboard is blown, I think the wheels are the issue but who knows..
 - Disk drive acts shifty but that could very well be the disks themselves.
 - Long boot up time suggests blown capacitors as well (Google..).
 
 Solutions:
-- Open up the machine and look at it's state; might be easy enough to replace a few capacitors *but*
-  also check out the online replacement manuals and even parts before going at it yourself.
-  Focus on the keys.
-  Oh, and of course: the connections!
-- Replace the disk drive: the coolest would be to get a diskette drive using a memory card and start sampling yourself.
-
-Strategy: buy a disk drive, that's an excellent starting point to open it up
+- Fix the above; but given that it seems to work 100% fine with a MIDI input, no hurry!
 
 Also try to sample something for fun, see how that works (and if it works).
+
+14/12: So, it's a simple machine, what to replace?
 
 URL: https://syntaur.com/mirage_parts.html
 
