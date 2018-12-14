@@ -20,7 +20,12 @@ URL: https://syntaur.com/mirage_parts.html
 
 * Yamaha DX-7
 
+Issue:
 - Battery (even though it only complained once).
+- Internal patches
+
+Solution:
+- Buy new battery, get MIDI interface
 
 * Arturia Drumbrute
 
