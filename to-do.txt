@@ -5,9 +5,9 @@
 
 Issues:
 - It does not get through calibration procedures, which is why it takes ages to boot (and indicates a problem)
-- Keyboard is blown, I think the wheels are the issue but who knows..
-- Disk drive acts shifty but that could very well be the disks themselves.
-- Long boot up time suggests blown capacitors as well (Google..).
+- The keyboard is *very* dirty but I can't get to it with those remaining two screws stuck in (fix, call Evert?)
+- Power supply fuses are all OK, so that doesn't seem to be the issue
+- Long boot up time suggests "something not reacting", which is in line with the wheels not doing much if anything
 
 Solutions:
 - Fix the above; but given that it seems to work 100% fine with a MIDI input, no hurry!
@@ -21,8 +21,7 @@ URL: https://syntaur.com/mirage_parts.html
 * Yamaha DX-7
 
 Issue:
-- Battery (even though it only complained once).
-- Internal patches
+- Battery? It seems enough
 
 Solution:
 - Buy new battery, get MIDI interface
@@ -35,18 +34,18 @@ Solution:
 
 I need more:
 
-* Long MIDI cables, at least 2
-* At least 1 USB to "printer USB", long, best 2
-* Big plugs to RCA (with or without converter pieces), 2
-* Long stereo single big jack to 2 mono big jacks, 2
-* Small jack to RCA (longer than the same one you got before)
-* Regular RCA cable
+X * Long MIDI cables, at least 2
+X * At least 1 USB to "printer USB", long, best 2
+X * Small jack to RCA (longer than the same one you got before)
+X * Regular RCA cable
+
+** ORDER! **
 
 [ Environment ]
 
 - More desk space!
+- Upgrade mixer
 - Plateaus, maybe ask Maurits to design something?
-- New pedal!
 
 
 
