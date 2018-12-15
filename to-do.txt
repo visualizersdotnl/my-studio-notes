@@ -14,7 +14,10 @@ Solutions:
 
 Also try to sample something for fun, see how that works (and if it works).
 
-14/12: So, it's a simple machine, what to replace?
+Options for screw removal:
+- Rubber band
+- Special bit
+- See https://www.youtube.com/watch?v=_mTFQbaT3Zc
 
 URL: https://syntaur.com/mirage_parts.html
 
