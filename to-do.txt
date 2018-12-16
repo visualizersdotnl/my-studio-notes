@@ -34,6 +34,7 @@ No issues!
 
 I need more:
 
+MIDI inteface for PC
 Long MIDI cables, at least 2
 At least 1 USB to "printer USB", long, best 2
 Small jack to RCA (longer than the same one you got before)
