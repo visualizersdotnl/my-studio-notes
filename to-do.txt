@@ -16,6 +16,7 @@ Also try to sample something for fun, see how that works (and if it works).
 
 Options for screw removal:
 - Rubber band
+- Pliers (good ones)
 - Special bit
 - See https://www.youtube.com/watch?v=_mTFQbaT3Zc
 
@@ -23,11 +24,7 @@ URL: https://syntaur.com/mirage_parts.html
 
 * Yamaha DX-7
 
-Issue:
-- Battery? It seems enough
-
-Solution:
-- Buy new battery, get MIDI interface
+No issues!
 
 * Arturia Drumbrute
 
@@ -37,18 +34,17 @@ Solution:
 
 I need more:
 
-X * Long MIDI cables, at least 2
-X * At least 1 USB to "printer USB", long, best 2
-X * Small jack to RCA (longer than the same one you got before)
-X * Regular RCA cable
+Long MIDI cables, at least 2
+At least 1 USB to "printer USB", long, best 2
+Small jack to RCA (longer than the same one you got before)
+Regular RCA cable
 
-** ORDER! **
+Go look in Helsingborg.
 
 [ Environment ]
 
 - More desk space!
 - Upgrade mixer
 - Plateaus, maybe ask Maurits to design something?
-
-
+s
 
