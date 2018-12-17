@@ -1,7 +1,7 @@
 
 [ Gear / Maintenance ]
 
-*Ensoniq Mirage (the plagued one)
+* Ensoniq Mirage (the plagued one)
 
 Issues:
 - It does not get through calibration procedures, which is why it takes ages to boot (and indicates a problem)
@@ -47,5 +47,5 @@ Go look in Helsingborg.
 - More desk space!
 - Upgrade mixer
 - Plateaus, maybe ask Maurits to design something?
-s
+
 
