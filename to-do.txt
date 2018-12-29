@@ -34,6 +34,7 @@ No issues!
 
 I need more:
 
+Balanced audio cable
 MIDI interface for PC
 USB to "printer USB", long
 Small jack to RCA (same one you got before)
@@ -46,5 +47,3 @@ Go look in Helsingborg.
 - More desk space!
 - Upgrade mixer
 - Plateaus, maybe ask Maurits to design something?
-
-
