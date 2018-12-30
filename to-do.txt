@@ -24,7 +24,7 @@ URL: https://syntaur.com/mirage_parts.html
 
 * Yamaha DX-7
 
-No issues!
+Replace battery: https://www.youtube.com/watch?v=P-ZEzYysozs
 
 * Arturia Drumbrute
 
@@ -36,7 +36,7 @@ I need more:
 
 Balanced audio cable
 MIDI interface for PC
-USB to "printer USB", long
+USB to "printer USB", long, 2X
 Small jack to RCA (same one you got before)
 Regular RCA cable
 
