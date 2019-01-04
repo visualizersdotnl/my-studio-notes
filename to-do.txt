@@ -3,14 +3,12 @@
 
 * Ensoniq Mirage (the plagued one)
 
-Issues:
-- It does not get through calibration procedures, which is why it takes ages to boot (and indicates a problem)
-- The keyboard is *very* dirty but I can't get to it with those remaining two screws stuck in (fix, call Evert?)
-- Power supply fuses are all OK, so that doesn't seem to be the issue
-- Long boot up time suggests "something not reacting", which is in line with the wheels not doing much if anything
+- Clean the entire thing
+- Replace electrolytic caps on PSU (if you think it's worth it if MIDI works well)
+- MIDI works "well" after some adjustment and with the keyboard itself detached
 
 Solutions:
-- Fix the above; but given that it seems to work 100% fine with a MIDI input, no hurry!
+- Clean and reseat all: go from there
 
 Also try to sample something for fun, see how that works (and if it works).
 
@@ -28,7 +26,7 @@ Replace battery: https://www.youtube.com/watch?v=P-ZEzYysozs
 
 * Arturia Drumbrute
 
-- Mount replacement board when current one stops working.
+OK
 
 [ Cables ]
 
@@ -36,7 +34,7 @@ I need more:
 
 Balanced audio cable
 MIDI interface for PC
-USB to "printer USB", long, 2X
+USB to "printer USB", long
 Small jack to RCA (same one you got before)
 Regular RCA cable
 
