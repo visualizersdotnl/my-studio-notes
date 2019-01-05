@@ -4,13 +4,13 @@
 * Ensoniq Mirage (the plagued one)
 
 - Clean the entire thing
-- Replace electrolytic caps on PSU (if you think it's worth it if MIDI works well)
+- Replace electrolytic caps on PSU (shipment incoming!)
 - MIDI works "well" after some adjustment and with the keyboard itself detached
 
 Solutions:
 - Clean and reseat all: go from there
 
-Also try to sample something for fun, see how that works (and if it works).
+Try out sampling: format a lousy disk and try to record the DX7.
 
 Options for screw removal:
 - Rubber band
@@ -26,15 +26,14 @@ Replace battery: https://www.youtube.com/watch?v=P-ZEzYysozs
 
 * Arturia Drumbrute
 
-OK
+OK!
+Board replaced.
 
 [ Cables ]
 
 I need more:
 
-Balanced audio cable
 MIDI interface for PC
-USB to "printer USB", long
 Small jack to RCA (same one you got before)
 Regular RCA cable
 
