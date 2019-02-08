@@ -3,8 +3,6 @@
 
 * Ensoniq Mirage (the plagued one)
 
-- Clean the entire thing
-- Replace electrolytic caps on PSU (shipment incoming!)
 - MIDI works "well" after some adjustment and with the keyboard itself detached
 
 Solutions:
@@ -34,10 +32,7 @@ Board replaced.
 I need more:
 
 MIDI interface for PC
-Small jack to RCA (same one you got before)
 Regular RCA cable
-
-Go look in Helsingborg.
 
 [ Environment ]
 
