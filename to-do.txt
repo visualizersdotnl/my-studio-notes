@@ -1,6 +1,18 @@
 
 [ Gear / Maintenance ]
 
+* Gaming corner *
+
+Cables (RGB) for:
+- PlayStation 2
+- Nintendo 64
+
+And get a SCART switch
+
+* SL-1200MK2s *
+
+Give them a standard cleaning.
+
 * Ensoniq Mirage (the plagued one)
 
 - MIDI works "well" after some adjustment and with the keyboard itself detached
@@ -9,12 +21,6 @@ Solutions:
 - Clean and reseat all: go from there
 
 Try out sampling: format a lousy disk and try to record the DX7.
-
-Options for screw removal:
-- Rubber band
-- Pliers (good ones)
-- Special bit
-- See https://www.youtube.com/watch?v=_mTFQbaT3Zc
 
 URL: https://syntaur.com/mirage_parts.html
 
@@ -32,10 +38,10 @@ Board replaced.
 I need more:
 
 MIDI interface for PC
-Regular RCA cable
+MIDI cable(s)
 
 [ Environment ]
 
 - More desk space!
-- Upgrade mixer
+- Upgrade mixer (coming through Henrik!)
 - Plateaus, maybe ask Maurits to design something?
