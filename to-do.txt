@@ -1,4 +1,6 @@
 
+MAIN RULE: THE ROOM MAY BE A MESS!
+
 [ Gear / Maintenance ]
 
 * Gaming corner *
@@ -9,9 +11,12 @@ Cables (RGB) for:
 
 And get a SCART switch
 
-* SL-1200MK2s *
+[ SL-1200MK2s / Vinyls ]
 
-Give them a standard cleaning.
+Need a desk.
+
+Clean up the records (see note on the wall).
+Clean up the remaining SL-1200mk2.
 
 * Ensoniq Mirage (the plagued one)
 
@@ -37,11 +42,12 @@ Board replaced.
 
 I need more:
 
-MIDI interface for PC
-MIDI cable(s)
+MIDI interface for PC -> Ordered: MIDISport!
+MIDI cable(s) -> Ordered
+More long jack cables
 
 [ Environment ]
 
-- More desk space!
+- More desk space!!
 - Upgrade mixer (coming through Henrik!)
 - Plateaus, maybe ask Maurits to design something?
