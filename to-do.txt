@@ -16,7 +16,7 @@ And get a SCART switch
 Need a desk.
 
 Clean up the records (see note on the wall).
-Clean up the remaining SL-1200mk2.
+Clean up the SL-1200mk2s internally.
 
 * Ensoniq Mirage (the plagued one)
 
@@ -42,8 +42,7 @@ Board replaced.
 
 I need more:
 
-MIDI interface for PC -> Ordered: MIDISport!
-MIDI cable(s) -> Ordered
+MIDI cable(s) -> Order more!
 More long jack cables
 
 [ Environment ]
