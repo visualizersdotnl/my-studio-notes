@@ -15,7 +15,7 @@ And get a SCART switch
 
 Need a desk.
 
-Clean up the records (see note on the wall).
+Clean up the records after returning to NL.
 Clean up the SL-1200mk2s internally.
 
 * Ensoniq Mirage (the plagued one)
@@ -33,20 +33,12 @@ URL: https://syntaur.com/mirage_parts.html
 
 Replace battery: https://www.youtube.com/watch?v=P-ZEzYysozs
 
-* Arturia Drumbrute
-
-OK!
-Board replaced.
-
 [ Cables ]
 
 I need more:
 
-MIDI cable(s) -> Order more!
-More long jack cables
+More long jack cables!
 
 [ Environment ]
 
-- More desk space!!
-- Upgrade mixer (coming through Henrik!)
-- Plateaus, maybe ask Maurits to design something?
+- More desk space!
