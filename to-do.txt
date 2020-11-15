@@ -4,11 +4,7 @@
 * Ensoniq Mirage (the plagued one)
 
 - MIDI works "well" after some adjustment and with the keyboard itself detached
-
-Solutions:
-- Clean and reseat all: go from there
-
-Try out sampling: format a lousy disk and try to record the DX7.
+- Laat Jasper er eens naar kijken!
 
 URL: https://syntaur.com/mirage_parts.html
 
@@ -20,14 +16,15 @@ Replace battery: https://www.youtube.com/watch?v=P-ZEzYysozs
 
 I need more:
 
-More long jack & XLR-to-jack cables (for mixer to rack mixer, just use 2 channels!)
+- 2 1-metre jack cables for TG77 -> mixer.
+- 1 3.5 stereo jack to 2 XLRs for Volca FM.
 
 [ Environment ]
 
-- More desk space for SL-1200s!
+- Desk space for SL-1200s *and* DX7.
 
 [ Notes ]
 
-Never trust that your Beyer's are broken unless you can check this using a reputable *direct* source!
-Pick up Juno-106 @ Thorsten
+- Never trust that your Beyer's are broken unless you can check this using a reputable *direct* source!
+- Pick up Juno-106 @ Thorsten
 
