@@ -16,8 +16,9 @@ Replace battery: https://www.youtube.com/watch?v=P-ZEzYysozs
 
 I need more:
 
-- 2 1-metre jack cables for TG77 -> mixer.
-- 1 3.5 stereo jack to 2 XLRs for Volca FM.
+- 3-metre jack cables for TG77 -> mixer.
+- 3.5 stereo jack to 2 XLRs for Volca FM.
+- Cables to hook mixer up to the Focusrite?
 
 [ Environment ]
 
@@ -25,6 +26,6 @@ I need more:
 
 [ Notes ]
 
-- Never trust that your Beyer's are broken unless you can check this using a reputable *direct* source!
 - Pick up Juno-106 @ Thorsten
+- See notes on iPhone, includes notes about DJ gear and other issues.
 
