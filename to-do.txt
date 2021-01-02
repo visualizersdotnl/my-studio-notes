@@ -4,6 +4,7 @@
 * Ensoniq Mirage (the plagued one)
 
 - MIDI works "well" after some adjustment and with the keyboard itself detached
+- Fucked around with wheel wiring (!)
 - Laat Jasper er eens naar kijken!
 
 URL: https://syntaur.com/mirage_parts.html
@@ -18,6 +19,12 @@ I need more:
 
 - 3-metre jack cables for TG77/Virus -> mixer.
 - 3.5 stereo jack to 2 big jacks for Volca FM.
+
+[ Patch bay ]
+
+- Design and build one with Maurits
+- Cables!
+- Design goal: be able to patch *any* instrument (or DJ mixer) through to the speakers or the audio adapter, or both
 
 [ Environment ]
 
