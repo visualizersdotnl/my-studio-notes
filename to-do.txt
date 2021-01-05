@@ -4,8 +4,9 @@
 * Ensoniq Mirage (the plagued one)
 
 - MIDI works "well" after some adjustment and with the keyboard itself detached
-- Fucked around with wheel wiring (!)
+- Fucked around with wheel wiring (, -10DC/+10DC/GND?)
 - Laat Jasper er eens naar kijken!
+- Losse schroeven liggen allemaal netjes ingepakt, samen met alles wat er verder bij hoort, in Finn's "flightcase".
 
 URL: https://syntaur.com/mirage_parts.html
 
@@ -22,8 +23,8 @@ I need more:
 
 [ Patch bay ]
 
-- Design and build one with Maurits
-- Cables!
+- Design and build one with Maurits.
+- Cables!s
 - Design goal: be able to patch *any* instrument (or DJ mixer) through to the speakers or the audio adapter, or both
 
 [ Environment ]
