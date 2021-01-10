@@ -3,6 +3,7 @@
 
 - Vaak zijn het de doekjes die je handen zo vreemd doen voelen, en residu achter laten op materiaal.
 - De rook machine laat inderdaad residu achter; lucht goed uit, en accepteer dat dat nou eenmaal zo is!
+- Blauw LED licht illumineert elk dust particle.
 
 [Synth.]
 
@@ -29,7 +30,7 @@ I need more:
 [ Patch bay ]
 
 - Design and build one with Maurits.
-- Cables!s
+- Cables!
 - Design goal: be able to patch *any* instrument (or DJ mixer) through to the speakers or the audio adapter, or both
 
 [ Environment ]
