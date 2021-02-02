@@ -7,31 +7,29 @@
 
 [Synth.]
 
-* Ensoniq Mirage (the plagued one)
+* Ensoniq Mirage (the plagued one) -> MOMENTEEL NIET AANGESLOTEN (JACK)
 
 - MIDI works "well" after some adjustment and with the keyboard itself detached
-- Fucked around with wheel wiring (, -10DC/+10DC/GND?)
+- Fucked around with wheel wiring (-10DC/+10DC/GND)
 - Laat Jasper er eens naar kijken!
 - Losse schroeven liggen allemaal netjes ingepakt, samen met alles wat er verder bij hoort, in Finn's "flightcase".
 
 URL: https://syntaur.com/mirage_parts.html
 
-* Yamaha DX-7
+* Yamaha DX-7 -> MOMENTEEL NIET AANGESLOTEN
 
 Replace battery: https://www.youtube.com/watch?v=P-ZEzYysozs
 
-[ Cables ]
+[ Cables needed ]
 
-I need more:
-
-- 3-metre jack cables for TG77/Virus -> mixer.
-- 3.5 stereo jack to 2 big jacks for Volca FM.
+- 8 3-metre jack cables for: TG77/Virus, compressor usage et cetera
+- 3.5mm stereo jack to 2 big jacks for Volca FM.
 
 [ Patch bay ]
 
 - Design and build one with Maurits.
 - Cables!
-- Design goal: be able to patch *any* instrument (or DJ mixer) through to the speakers or the audio adapter, or both
+- Design goal: be able to patch *any* instrument (or DJ mixer) through components and to the speakers or the audio adapter, or both
 
 [ Environment ]
 
