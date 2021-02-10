@@ -29,6 +29,8 @@ Replace battery: https://www.youtube.com/watch?v=P-ZEzYysozs
 - 8 3-metre jack cables for: TG77/Virus, compressor usage et cetera
 - 3.5mm stereo jack to 2 big jacks for Volca FM.
 
+Be sure to buy *balanced* jacks!
+
 [ Patch bay ]
 
 - Design and build one with Maurits.
