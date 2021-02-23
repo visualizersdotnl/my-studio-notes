@@ -1,7 +1,8 @@
 
-[ Compressor / Rack mixer ]
+[ DJ setup ]
 
-- Hissing sound on headphones: why?
+- Let http://www.green-vinyl.nl revise the MK2 in full.
+- Check up on the mixer's innards.
 
 [ Rookmachine ]
 
@@ -11,14 +12,13 @@
 
 [Synth.]
 
-* Ensoniq Mirage (the plagued one) -> MOMENTEEL NIET AANGESLOTEN (JACK)
+* Ensoniq Mirage (the plagued one): needs decent repair (Jasper).
 
-- MIDI works "well" after some adjustment and with the keyboard itself detached
-- Fucked around with wheel wiring (-10DC/+10DC/GND)
-- Laat Jasper er eens naar kijken!
+- MIDI works "well" after some adjustment and with the keyboard itself detached.
+- Fucked around with wheel wiring (-10DC/+10DC/GND), didn't put the wheels themselves in place properly either.
 - Losse schroeven liggen allemaal netjes ingepakt, samen met alles wat er verder bij hoort, in Finn's "flightcase".
 
-URL: https://syntaur.com/mirage_parts.html
+URL for parts: https://syntaur.com/mirage_parts.html
 
 * Yamaha DX-7 -> MOMENTEEL NIET AANGESLOTEN
 
@@ -26,10 +26,7 @@ Replace battery: https://www.youtube.com/watch?v=P-ZEzYysozs
 
 [ Cables needed ]
 
-- 8 3-metre jack cables for: TG77/Virus, compressor usage et cetera
-- 3.5mm stereo jack to 2 big jacks for Volca FM.
-
-Be sure to buy *balanced* jacks!
+I think I've ordered enough for now?
 
 [ Patch bay ]
 
@@ -45,3 +42,4 @@ Be sure to buy *balanced* jacks!
 
 - Pick up Juno-106 @ Thorsten
 - See notes on iPhone, includes notes about DJ gear and other issues.
+
