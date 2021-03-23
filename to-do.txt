@@ -1,4 +1,6 @@
 
+TAKE EVERYTHING APART, STASH IT ALL AND USE A MINIMALIST SETUP?
+
 [ DJ setup ]
 
 - Let http://www.green-vinyl.nl revise the MK2 in full.
@@ -26,7 +28,8 @@ Replace battery: https://www.youtube.com/watch?v=P-ZEzYysozs
 
 [ Cables needed ]
 
-I think I've ordered enough for now?
+- XLR to jacks.
+- Balanced jacks for Focusrite -> Speakers.
 
 * Balanced jacks (stereo!) *
 
@@ -34,14 +37,14 @@ I think I've ordered enough for now?
 
 - Design and build one with Maurits.
 - Cables!
-- Design goal: be able to patch *any* instrument (or DJ mixer) through components and to the speakers or the audio adapter, or both
+- Design goal: be able to patch *any* instrument (or DJ mixer) through components and to the speakers or the audio adapter, or both.
 
 [ Environment ]
 
-- Desk space for SL-1200s *and* DX7 (keyboard stand?)
+- Desk space for SL-1200s *and* DX7, or any other proper keybed.
 
 [ Notes ]
 
-- Pick up Juno-106 @ Thorsten
+- Pick up Juno-106 @ Thorsten.
 - See notes on iPhone, includes notes about DJ gear and other issues.
 
