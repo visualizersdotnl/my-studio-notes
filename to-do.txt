@@ -17,34 +17,34 @@ TAKE EVERYTHING APART, STASH IT ALL AND USE A MINIMALIST SETUP?
 * Ensoniq Mirage (the plagued one): needs decent repair (Jasper).
 
 - MIDI works "well" after some adjustment and with the keyboard itself detached.
-- Fucked around with wheel wiring (-10DC/+10DC/GND), didn't put the wheels themselves in place properly either.
+- Fucked around with wheel wiring (-10DC/+10DC/GND), didn't put the wheels themselves in place properly.
 - Losse schroeven liggen allemaal netjes ingepakt, samen met alles wat er verder bij hoort, in Finn's "flightcase".
+- Kortom: alles van wheels en toetsen naar de plek waar MIDI en actual input gemultiplexed wordt needs fixing.
+- Eventueel een USB drive.
 
 URL for parts: https://syntaur.com/mirage_parts.html
 
-* Yamaha DX-7 -> MOMENTEEL NIET AANGESLOTEN
+* Yamaha DX-7
 
 Replace battery: https://www.youtube.com/watch?v=P-ZEzYysozs
+
+Verder in goede conditie.
 
 [ Cables needed ]
 
 - XLR to jacks.
 - Balanced jacks for Focusrite -> Speakers.
 
-* Balanced jacks (stereo!) *
-
 [ Patch bay ]
 
-- Design and build one with Maurits.
-- Cables!
-- Design goal: be able to patch *any* instrument (or DJ mixer) through components and to the speakers or the audio adapter, or both.
+Voorlopig even niet.
 
 [ Environment ]
 
 - Desk space for SL-1200s *and* DX7, or any other proper keybed.
+- Ik overweeg een DX5 of een DX7 MK2.
 
 [ Notes ]
 
 - Pick up Juno-106 @ Thorsten.
 - See notes on iPhone, includes notes about DJ gear and other issues.
-
