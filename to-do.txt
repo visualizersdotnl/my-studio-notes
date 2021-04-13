@@ -28,6 +28,7 @@ Alles kraakt. Pots schoon spuiten en smeren.
 - Losse schroeven liggen allemaal netjes ingepakt, samen met alles wat er verder bij hoort, in Finn's "flightcase".
 - Kortom: alles van wheels en toetsen naar de plek waar MIDI en actual input gemultiplexed wordt needs fixing.
 - Eventueel een USB drive.
+- Keys reinigen (net als bij de DX7)!
 
 URL for parts: https://syntaur.com/mirage_parts.html
 
