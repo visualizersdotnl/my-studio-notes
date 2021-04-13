@@ -3,6 +3,10 @@ Priority: active USB hub!
 
 [ TAKE EVERYTHING APART, STASH IT ALL AND USE A MINIMALIST SETUP? ]
 
+[ RX1202FX & 2I2I ]
+
+Alles kraakt. Pots schoon spuiten en smeren.
+
 [ DJ setup ]
 
 - Let http://www.green-vinyl.nl revise the MK2 in full.
@@ -32,6 +36,7 @@ URL for parts: https://syntaur.com/mirage_parts.html
 Replace battery: https://www.youtube.com/watch?v=P-ZEzYysozs
 
 Heeft een schoonmaakbeurt nodig denk ik! Misschien vanwege de rookmachine?
+Yup -> Lijkt voor nu goed!
 
 [ Cables needed ]
 
