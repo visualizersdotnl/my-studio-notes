@@ -3,15 +3,15 @@ Priority: active USB hub!
 
 [ TAKE EVERYTHING APART, STASH IT ALL AND USE A MINIMALIST SETUP? ]
 
-[ RX1202FX & 2I2I ]
+[ RX1202FX & 2I2 ]
 
-Alles kraakt. Pots schoon spuiten en smeren.
+Alles kraakt. Pots schoon spuiten en smeren. 2I2 eventueel garantie?
 
 [ DJ setup ]
 
 - Let http://www.green-vinyl.nl revise the MK2 in full.
-- Check up on the mixer's innards.
-- Run into mixer, and run mixer into Focusrite?
+- Aarde fixen zodra MK2 gereviseerd is.
+- MIDI controller kopen voor Virtual DJ?
 
 [ Rookmachine ]
 
