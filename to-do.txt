@@ -1,47 +1,38 @@
 
-Priority: active USB hub!
+Priorities:
+- Alles los halen en netjes opnieuw bekabelen in een nieuwe studio.
+- Minimalisme? Ergens zijn die Volcas daar voor he?
+- Blijf krakende pots smeren, 't is niet anders.
 
-[ TAKE EVERYTHING APART, STASH IT ALL AND USE A MINIMALIST SETUP? ]
+[ DJ Setup ]
 
-[ RX1202FX & 2I2 ]
-
-Alles kraakt. Pots schoon spuiten en smeren. 2I2 eventueel garantie?
-
-[ DJ setup ]
-
-- Let http://www.green-vinyl.nl revise the MK2 in full.
-- Aarde fixen zodra MK2 gereviseerd is.
-- MIDI controller kopen voor Virtual DJ?
+- Laat MK2 nakijken door http://www.green-vinyl.nl
+- MIDI controller voor Virtual DJ? Al gaat 't zo ook best.
 
 [ Rookmachine ]
 
-- Vaak zijn het de doekjes die je handen zo vreemd doen voelen, en residu achter laten op materiaal.
-- De rook machine laat inderdaad residu achter; lucht goed uit, en accepteer dat dat nou eenmaal zo is!
-- Blauw LED licht illumineert elk dust particle.
+- Spoort niet helemaal (luid pompje) maar gebruik 'm gewoon sporadisch.
+- Koop er geen goedkope rommel voor.
+- Blauw LED licht illumineert elk particle.
 
-[Synth.]
+[ Ensoniq Mirage ]
 
-* Ensoniq Mirage (the plagued one): needs decent repair (Jasper).
-
-- MIDI works "well" after some adjustment and with the keyboard itself detached.
-- Fucked around with wheel wiring (-10DC/+10DC/GND), didn't put the wheels themselves in place properly.
-- Losse schroeven liggen allemaal netjes ingepakt, samen met alles wat er verder bij hoort, in Finn's "flightcase".
-- Kortom: alles van wheels en toetsen naar de plek waar MIDI en actual input gemultiplexed wordt needs fixing.
-- Eventueel een USB drive.
-- Keys reinigen (net als bij de DX7)!
+- MIDI IN werkt.
+- Heb gerommeld met wheel wiring om te kijken of voltage wel klopte (ik geloof -10/+10 DC, en iets met aarde, can't remember).
+- Losse schroeven netjes ingepakt.
+- Lijkt iets mis te zijn in het circuit tussen keyboard input en de multiplexer bij MIDI ports.
+- Eventueel een USB drive?
+- Keybed reinigen (kan Jasper doen).
+- Jasper laten fixen zodra hij tijd heeft.
 
 URL for parts: https://syntaur.com/mirage_parts.html
 
-* Yamaha DX-7
+[ DX7 ]
 
-Replace battery: https://www.youtube.com/watch?v=P-ZEzYysozs
-
-Heeft een schoonmaakbeurt nodig denk ik! Misschien vanwege de rookmachine?
-Yup -> Lijkt voor nu goed!
+- Batterij vervangen.
 
 [ Cables needed ]
 
-- XLR to jacks.
 - Balanced jacks for Focusrite -> Speakers.
 
 [ Patch bay ]
@@ -51,7 +42,6 @@ Voorlopig even niet.
 [ Environment ]
 
 - Desk space for SL-1200s *and* DX7, or any other proper keybed.
-- Ik overweeg een DX5 of een DX7 MK2.
 
 [ Notes ]
 
