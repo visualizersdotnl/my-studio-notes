@@ -1,19 +1,14 @@
 
 Priorities:
-- Alles los halen en netjes opnieuw bekabelen in een nieuwe studio.
+- Alles los halen en netjes opnieuw bekabelen in een nieuwe studio (kabels logisch proberen te scheiden i.v.m interferentie).
 - Minimalisme? Ergens zijn die Volcas daar voor he?
-- Blijf krakende pots smeren, 't is niet anders.
+- Blijf krakende pots smeren, 't is niet anders, ik ben bang dat ik een en ander gesloopt heb met de rookmachine (Focusrite & RX1202FX).
 
 [ DJ Setup ]
 
 - Laat MK2 nakijken door http://www.green-vinyl.nl
 - MIDI controller voor Virtual DJ? Al gaat 't zo ook best.
-
-[ Rookmachine ]
-
-- Spoort niet helemaal (luid pompje) maar gebruik 'm gewoon sporadisch.
-- Koop er geen goedkope rommel voor.
-- Blauw LED licht illumineert elk particle.
+- Aarde Ecler HAK-360 denkelijk niet in orde. Open maken!
 
 [ Ensoniq Mirage ]
 
