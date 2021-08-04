@@ -8,7 +8,7 @@ Priorities:
 
 - Laat MK2 nakijken door http://www.green-vinyl.nl en vervang de MK7 er mee nadien.
 - MIDI controller voor Virtual DJ? Al gaat 't zo ook best.
-- Aarde Ecler HAK-360 denkelijk niet in orde. Open maken! Of is dat ook het probleem met de elektriek heer?
+- HAK 360 is in orde, ligt gewoon aan de elektriek hier.
 
 [ Ensoniq Mirage ]
 
