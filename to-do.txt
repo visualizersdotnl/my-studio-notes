@@ -6,9 +6,8 @@ Priorities:
 
 [ DJ Setup ]
 
-- Laat MK2 nakijken door http://www.green-vinyl.nl en vervang de MK7 er mee nadien.
+- Laat MK2 nakijken door http://www.green-vinyl.nl en vervang de MK7 er mee nadien; de MK2 heeft een aarde probleem!
 - MIDI controller voor Virtual DJ? Al gaat 't zo ook best.
-- HAK 360 is in orde, ligt gewoon aan de elektriek hier.
 
 [ Ensoniq Mirage ]
 
