@@ -6,6 +6,7 @@ Priorities:
 
 [ DJ Setup ]
 
+- HAK-360 heeft toch wat eigenaardigheden wat betreft aarden!
 - Laat MK2 nakijken door http://www.green-vinyl.nl en vervang de MK7 er mee nadien; de MK2 heeft een aarde probleem!
 - MIDI controller voor Virtual DJ? Al gaat 't zo ook best.
 
