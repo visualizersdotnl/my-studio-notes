@@ -3,6 +3,7 @@ Priorities:
 - Alles los halen en netjes opnieuw bekabelen in een nieuwe studio (kabels logisch proberen te scheiden i.v.m interferentie).
 - Minimalisme? Ergens zijn die Volcas daar voor he?
 - Blijf krakende pots smeren, 't is niet anders, ik ben bang dat ik een en ander gesloopt heb met de rookmachine (Focusrite & RX1202FX).
+- PC's Bluetooth is gaar en USB hub ook (so be careful).
 
 [ DJ Setup ]
 
