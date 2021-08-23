@@ -7,8 +7,8 @@ Priorities:
 
 [ DJ Setup ]
 
-- HAK-360 heeft toch wat eigenaardigheden wat betreft aarden!
-- Laat MK2 nakijken door http://www.green-vinyl.nl en vervang de MK7 er mee (nadien?)ss
+- HAK-360 heeft toch wat eigenaardigheden wat betreft aarde!
+- Laat MK2 nakijken door http://www.green-vinyl.nl; verkoop of hou de MK7 voor een "hi-fi"
 - MIDI controller voor Virtual DJ? Al gaat 't zo ook best.
 
 [ Ensoniq Mirage ]
