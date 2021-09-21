@@ -1,5 +1,7 @@
 
 Priorities:
+- KeyStep doet het niet goed; open maken en reinigen!
+  Test met Volca FM.
 - Alles los halen en netjes opnieuw bekabelen in een nieuwe studio (kabels logisch proberen te scheiden i.v.m interferentie).
 - Minimalisme? Ergens zijn die Volcas daar voor he?
 - Blijf krakende pots smeren, 't is niet anders, ik ben bang dat ik een en ander gesloopt heb met de rookmachine (Focusrite & RX1202FX).
@@ -7,9 +9,9 @@ Priorities:
 
 [ DJ Setup ]
 
-- HAK-360 heeft toch wat eigenaardigheden wat betreft aarden!
-- Laat MK2 nakijken door http://www.green-vinyl.nl en vervang de MK7 er mee (nadien?) -> Al gedaan, zonder nakijken (wel interessant!)
-- MIDI controller voor Virtual DJ? Al gaat 't zo ook best.
+- HAK-360 heeft toch wat eigenaardigheden wat betreft aarden.
+- MIDI controller(s) voor Virtual DJ of timecoded vinyl (supported by the MP?)? Al gaat 't zo ook best.
+- Ground hum blijft maar tafels ligt het echt niet aan, de gereviseerde MK2 is in elk geval 'below average' getest.
 
 [ Ensoniq Mirage ]
 
@@ -23,7 +25,7 @@ Priorities:
 
 URL for parts: https://syntaur.com/mirage_parts.html
 
-[ DX7 ]
+[ DX7 & TG77 ]
 
 - Batterij vervangen.
 
