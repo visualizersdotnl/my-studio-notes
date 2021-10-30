@@ -1,8 +1,7 @@
 
 Priorities:
-- Alles los halen en netjes opnieuw bekabelen in een nieuwe studio (kabels logisch proberen te scheiden i.v.m interferentie).
-- Minimalisme? Ergens zijn die Volcas daar voor he?
-- Focusrite & RX smeren met nieuwe middeltjes! Klusje, want ze moeten open.
+- Focusrite & RX smeren met nieuwe middeltjes! Klusje, want ze moeten open -> Deels opgelost met 'DeoxIT' van buiten af for now.
+- Alles los halen en netjes opnieuw bekabelen in een nieuwe studio (kabels logisch proberen te scheiden i.v.m interferentie), ?
 - My PC's Bluetooth is gaar en USB hub ook (so be careful).
 
 [ DJ Setup ]
@@ -29,7 +28,7 @@ URL for parts: https://syntaur.com/mirage_parts.html
 
 [ Cables needed ]
 
-- Balanced jacks for Focusrite -> Speakers.
+- ...
 
 [ Patch bay ]
 
