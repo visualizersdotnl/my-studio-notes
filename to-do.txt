@@ -1,7 +1,7 @@
 
 Priorities:
 - Focusrite & RX smeren met nieuwe middeltjes! Klusje, want ze moeten open -> Deels opgelost met 'DeoxIT' van buiten af for now.
-- Alles los halen en netjes opnieuw bekabelen in een nieuwe studio (kabels logisch proberen te scheiden i.v.m interferentie), ?
+- Alles los halen en netjes opnieuw bekabelen in een nieuwe studio: en als een havik op ground loops zitten!
 - My PC's Bluetooth is gaar en USB hub ook (so be careful).
 
 [ DJ Setup ]
@@ -40,5 +40,6 @@ Voorlopig even niet.
 
 [ Notes ]
 
+- Oude Rokit geeft een lage hum (tevens GND doorgeknipt), maar als subwoofer voor de A2+ set is het more than fine!
 - Pick up Juno-106 @ Thorsten.
 - See notes on iPhone, includes notes about DJ gear and other issues.
