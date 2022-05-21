@@ -6,7 +6,6 @@ Priorities:
 
 [ DJ Setup ]
 
-- HAK-360 heeft toch wat eigenaardigheden wat betreft aarden.
 - MIDI controller(s) voor Virtual DJ of timecoded vinyl (supported by the MP?)? Al gaat 't zo ook best.
 - Ground hum blijft maar tafels ligt het echt niet aan, de gereviseerde MK2 is in elk geval 'below average' getest.
 
