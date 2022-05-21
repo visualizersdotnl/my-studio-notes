@@ -40,6 +40,7 @@ Voorlopig even niet.
 
 [ Notes ]
 
+- Kanaal 12 van Behringer mixer lekt 'effect'.
 - Oude Rokit geeft een lage hum (tevens GND doorgeknipt), maar als subwoofer voor de A2+ set is het more than fine!
 - Pick up Juno-106 @ Thorsten.
-- See notes on iPhone, includes notes about DJ gear and other issues.
+- See notes on iPhone?
