@@ -1,6 +1,6 @@
 
 Priorities:
-- Focusrite & RX smeren met nieuwe middeltjes! Klusje, want ze moeten open -> Deels opgelost met 'DeoxIT' van buiten af for now -> Opnieuw doen!
+- Focusrite & RX smeren met nieuwe middeltjes! Klusje, want ze moeten open -> Deels opgelost met 'DeoxIT' van buiten af for now -> Nieuwe kopen?
 - Alles los halen en netjes opnieuw bekabelen in een nieuwe studio: en als een havik op ground loops zitten!
 - My PC's Bluetooth is gaar en USB hub ook (so be careful).
 
@@ -8,6 +8,7 @@ Priorities:
 
 - MIDI controller(s) voor Virtual DJ of timecoded vinyl (supported by the MP?)? Al gaat 't zo ook best.
 - Ground hum blijft maar tafels ligt het echt niet aan, de gereviseerde MK2 is in elk geval 'below average' getest.
+  Geen hum (meer) op de Ecler HAK?
 
 [ Ensoniq Mirage ]
 
@@ -35,7 +36,7 @@ Voorlopig even niet.
 
 [ Environment ]
 
-- Desk space for SL-1200s *and* DX7, or any other proper keybed.
+- Desk space. Space in general.
 
 [ Notes ]
 
@@ -43,3 +44,7 @@ Voorlopig even niet.
 - Oude Rokit geeft een lage hum (tevens GND doorgeknipt), maar als subwoofer voor de A2+ set is het more than fine!
 - Pick up Juno-106 @ Thorsten.
 - See notes on iPhone?
+
+[ Games ]
+
+- Score nieuwe TV (liefst een flatscreen).
